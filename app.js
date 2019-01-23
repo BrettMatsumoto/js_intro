@@ -11,9 +11,9 @@ var today = "Monday"; //single comment
 function commentOut(str){
  console.log(str + " is a great day!");
 }
-/*This is a comment
-that uses multiple lines
-like a boss*/
+/* Multi
+Lined
+Comment */
 
 /*2. Declare a variable named peanuts and assign it with your favorite Peanuts character. 
 Console.log the variable.*/
