@@ -18,7 +18,7 @@ Comment */
 /*2. Declare a variable named peanuts and assign it with your favorite Peanuts character. 
 Console.log the variable.*/
 
-var peanuts = 'honey roasted';
+peanuts = 'Charlie Brown'; //tried without var at the begining
 console.log(peanuts);
 
 /*3. Declare a variable named snoopyAge and assign it with Snoopy's real age.
